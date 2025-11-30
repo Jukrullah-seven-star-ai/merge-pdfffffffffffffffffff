@@ -1,0 +1,5 @@
+{
+  "name": "Smart PDF Merger",
+  "description": "A client-side PDF merging application with AI-powered filename suggestions. Merge multiple PDF files securely in your browser.",
+  "requestFramePermissions": []
+}
